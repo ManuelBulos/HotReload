@@ -1,0 +1,16 @@
+PODS:
+  - FileWatcher (0.2.1)
+
+DEPENDENCIES:
+  - FileWatcher
+
+SPEC REPOS:
+  trunk:
+    - FileWatcher
+
+SPEC CHECKSUMS:
+  FileWatcher: c7d30f1dc6e3c12025d940d90804ecc997960f81
+
+PODFILE CHECKSUM: c6d1607767c6920e3e556c04d76ed6950c1e9534
+
+COCOAPODS: 1.9.1
